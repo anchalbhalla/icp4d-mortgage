@@ -8,8 +8,13 @@ In this repositary, you will learn how to use ICP for data using a mortgage data
 <b> Steps: </b>
 
 1. <b> Create a Project: </b> 
-<br> <t> a. Select project tab from right: </t> </br>
-<img src = "https://github.com/anchalbhalla/icp4d-mortgage/blob/master/imgs/Capture.PNG">
+<br> <t> a. Select project tab from right: </br>
+<img src = "https://github.com/anchalbhalla/icp4d-mortgage/blob/master/imgs/Capture.PNG"> </t> 
+<br> <t> b. Click add project, select analytics project and a name to it 
+  <img src = "https://github.com/anchalbhalla/icp4d-mortgage/blob/master/imgs/Capture1.PNG"> </t> 
+  <br> <t> c. We will creating a new project from scratch so select new file, add a description and create the project
+  <img src = "https://github.com/anchalbhalla/icp4d-mortgage/blob/master/imgs/Capture2.PNG"> </t>
+  
 2. Upload the datasets : Mortgage_customer, Mortgage_default, Mortgage_property
 
 <h2> Creating Cognos dashboard visualizations </h2> 
