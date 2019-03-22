@@ -56,6 +56,22 @@ whether to approve it in a few seconds with no manual intervention. So it accura
 
 <b> Steps: </b> 
 
-1. Go to Cognos Dashboards tab on left and click create dashboard  
+1. Go to Cognos Dashboards tab on left, click 'add cognos dashboards', add a dashboard name and click create
+<img src = "https://github.com/anchalbhalla/icp4d-mortgage/blob/master/imgs/Capture9.PNG"> 
 
-<br>2.  
+2.  Choose a layout for the dashboard, we will go for freeform 
+<img src = "https://github.com/anchalbhalla/icp4d-mortgage/blob/master/imgs/Capture10.PNG">
+
+3. Adding datasource 
+ <br><br><t> a. Click on datasource, and from the right hand side choose the mortgagejoin.csv to insert to dashboard 
+ <img src = "https://github.com/anchalbhalla/icp4d-mortgage/blob/master/imgs/Capture11.PNG"> </t>  
+ 
+ 4. Select the dataset to open it 
+  <br><br><t> a. Select the columns Income and appliedOnline together (use the Ctrl key) 
+   <img src = "https://github.com/anchalbhalla/icp4d-mortgage/blob/master/imgs/Capture12.PNG"> </t>  
+   
+   <br> b. Drag and drop them and you get a bar chart for these 2 columns
+   <img src = "https://github.com/anchalbhalla/icp4d-mortgage/blob/master/imgs/Capture13.PNG"> </t>
+  
+  
+ 
