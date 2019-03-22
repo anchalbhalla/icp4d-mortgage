@@ -71,7 +71,20 @@ whether to approve it in a few seconds with no manual intervention. So it accura
    <img src = "https://github.com/anchalbhalla/icp4d-mortgage/blob/master/imgs/Capture12.PNG"> </t>  
    
    <br> b. Drag and drop them and you get a bar chart for these 2 columns
-   <img src = "https://github.com/anchalbhalla/icp4d-mortgage/blob/master/imgs/Capture13.PNG"> </t>
-  
+   <img src = "https://github.com/anchalbhalla/icp4d-mortgage/blob/master/imgs/Capture13.PNG"> </t> 
+   
+   
+ 
+   
+   <br><h3>Creating Packed Bubble charts: </h3>
+
+<b> Steps: </b> 
+
+1. Follow the same steps as above till step3
+
+2. Select the columns Sales price and income and drop them onto the dashboard 
+  <br><br><t> a. Choose the visualization as packed bubble and change the fields like the image below:
+ <img src = "https://github.com/anchalbhalla/icp4d-mortgage/blob/master/imgs/Capture14.PNG"> </t>  
+
   
  
