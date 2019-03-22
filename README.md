@@ -50,6 +50,12 @@ whether to approve it in a few seconds with no manual intervention. So it accura
   <img src = "https://github.com/anchalbhalla/icp4d-mortgage/blob/master/imgs/Capture8.PNG"> </t> 
   You will find that the model has predicted that the client will not get a mortgage with the confidence of 76% (1- yes, 0-no)
  
-<h2> Creating Cognos dashboard visualizations </h2> 
+<h2> Creating Cognos dashboard visualizations </h2>  
 
-<b> Steps: </b>
+<h3>Creating Bar charts: </h3>
+
+<b> Steps: </b> 
+
+1. Go to Cognos Dashboards tab on left and click create dashboard  
+
+<br>2.  
