@@ -36,15 +36,15 @@ whether to approve it in a few seconds with no manual intervention. So it accura
     <br><br><t> a. Click on add notebook, select the 'from file' tab, enter a name for the notebook and upload this notebook.  
      <img src = "https://github.com/anchalbhalla/icp4d-mortgage/blob/master/imgs/Capture5.PNG">   
      In this notebook, the data is first being prepared. It reads from the datasets: customers, default and property and then merges them together. Next, the data is cleansed and the numeric fields are casted to integers. 
-     The next step is data exploration , where the data is visualized. The mortgage default is analysed with plotting graphs for residence/income and current employer/current address. 
-  Now the pipeline and model will be created using sparkml libraries. The feature set for this model are : "Income", "AppliedOnlineEncoded", "ResidenceEncoded", "YearCurrentAddress", "YearsCurrentEmployer", "NumberOfCards", "CCDebt", "Loans", "LoanAmount", "SalePrice", "Location". And the output column is the MortgageDefault. The alrogithm used here is the random forest classfier to predict the mortgage default.  
-  Next comes model evaluation and after you run the notebooks you will see the model will give an accuracy of 0.603175. 
-  The last step is saving this model, and once it is saved you will see it under the models tab, as described in the next step. 
-  Run all the cells, to see the output: 
+     <br>The next step is data exploration , where the data is visualized. The mortgage default is analysed with plotting graphs for residence/income and current employer/current address. 
+  <br>Now the pipeline and model will be created using sparkml libraries. The feature set for this model are : "Income", "AppliedOnlineEncoded", "ResidenceEncoded", "YearCurrentAddress", "YearsCurrentEmployer", "NumberOfCards", "CCDebt", "Loans", "LoanAmount", "SalePrice", "Location". And the output column is the MortgageDefault. The alrogithm used here is the random forest classfier to predict the mortgage default.  
+  <br>Next comes model evaluation and after you run the notebooks you will see the model will give an accuracy of 0.603175. 
+  <br>The last step is saving this model, and once it is saved you will see it under the models tab, as described in the next step. 
+  <br>Run all the cells, to see the output: 
   <img src = "https://github.com/anchalbhalla/icp4d-mortgage/blob/master/imgs/Capture6.PNG"> </t>  
   
   
- 4. This step involved testing the model which has been deployed by the notebook  
+ <br>4. This step involved testing the model which has been deployed by the notebook  
  <img src = "https://github.com/anchalbhalla/icp4d-mortgage/blob/master/imgs/Capture7.PNG"> </t> 
  <br><br><t> a. Click on the model, go to real-time score tab, and you will find that the default testing data is already entered. Click on submit and you see the results from the model. 
   <img src = "https://github.com/anchalbhalla/icp4d-mortgage/blob/master/imgs/Capture8.PNG"> </t> 
